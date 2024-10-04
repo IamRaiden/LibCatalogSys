@@ -31,7 +31,7 @@ class Book {
     }
 }
 
-// Library class to manage the catalog of books
+// Library class that manages the catalog of books
 class Library {
     private ArrayList<Book> catalog;
 
